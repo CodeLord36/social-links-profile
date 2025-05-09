@@ -13,15 +13,15 @@ This is a solution to the **Frontend Mentor** challenge. Built with:
 
 ## 🚀 Live Demo
 
-[Live Site on Vercel]()
+[Live Site on Vercel](https://social-links-profile-eta.vercel.app/)
 
 ## 📦 Setup & Installation
 
 Clone the repository and install dependencies:
 
 ```bash
-git clone
-cd your-repo-name
+git clone https://github.com/CodeLord36/social-links-profile.git
+cd social-links-profile
 npm install
 ```
 
